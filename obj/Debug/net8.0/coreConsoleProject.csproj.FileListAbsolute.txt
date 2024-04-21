@@ -12,3 +12,4 @@
 /Users/macos/coursera/coreConsoleProject/obj/Debug/net8.0/coreConsoleProject.pdb
 /Users/macos/coursera/coreConsoleProject/obj/Debug/net8.0/coreConsoleProject.genruntimeconfig.cache
 /Users/macos/coursera/coreConsoleProject/obj/Debug/net8.0/ref/coreConsoleProject.dll
+/Users/macos/coursera/coreConsoleProject/obj/Debug/net8.0/coreConsoleProject.sourcelink.json
